@@ -8,6 +8,5 @@ To do this there will be the image and description of the finished dishes.As wel
 ### Language used :
 ![](image/html.png)
 
-
 #### Special thanks :
 ![](image/OdinProjet.png)
